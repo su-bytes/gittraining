@@ -1,1 +1,2 @@
 # gittraining
+Welcome to DevOps!
